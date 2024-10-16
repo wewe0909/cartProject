@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <user_id>user1</user_id>
+        <password>password123</password>
+        <status>0</status>
+        <region>SPA</region>
+    </user>
+    <user>
+        <user_id>user2</user_id>
+        <password>password123</password>
+        <status>0</status>
+        <region>SPA</region>
+    </user>
+    <user>
+        <user_id>user3</user_id>
+        <password>password123</password>
+        <status>0</status>
+        <region>ENG</region>
+    </user>
+    <user>
+        <user_id>user4</user_id>
+        <password>password123</password>
+        <status>0</status>
+        <region>ENG</region>
+    </user>
+    <user>
+        <user_id>user5</user_id>
+        <password>password123</password>
+        <status>0</status>
+        <region>ENG</region>
+    </user>
+</users>

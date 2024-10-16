@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>p1</id>
+        <name>Piña</name>
+        <price>10,00</price>
+        <stock>5</stock>
+    </product>
+    <product>
+        <id>p2</id>
+        <name>Cereza</name>
+        <price>20,00</price>
+        <stock>5</stock>
+    </product>
+    <product>
+        <id>p3</id>
+        <name>Manzana</name>
+        <price>15,00</price>
+        <stock>5</stock>
+    </product>
+    <product>
+        <id>p4</id>
+        <name>Aguacate</name>
+        <price>30,00</price>
+        <stock>0</stock>
+    </product>
+    <product>
+        <id>p5</id>
+        <name>Chuleta</name>
+        <price>25,00</price>
+        <stock>5</stock>
+    </product>
+    <product>
+        <id>p6</id>
+        <name>Gato</name>
+        <price>35,00</price>
+        <stock>5</stock>
+    </product>
+</products>

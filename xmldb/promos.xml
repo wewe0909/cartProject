@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<promos>
+    <promo code="PROMO1">
+        <discount>25</discount>
+    </promo>
+    <promo code="AURELIANO">
+        <discount>99</discount>
+    </promo>
+</promos>
